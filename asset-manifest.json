@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/onepage/static/css/main.b100e6da.chunk.css",
-    "main.js": "/onepage/static/js/main.ef53b8fa.chunk.js",
-    "main.js.map": "/onepage/static/js/main.ef53b8fa.chunk.js.map",
-    "runtime-main.js": "/onepage/static/js/runtime-main.c95e791a.js",
-    "runtime-main.js.map": "/onepage/static/js/runtime-main.c95e791a.js.map",
-    "static/js/2.5e356dc6.chunk.js": "/onepage/static/js/2.5e356dc6.chunk.js",
-    "static/js/2.5e356dc6.chunk.js.map": "/onepage/static/js/2.5e356dc6.chunk.js.map",
-    "index.html": "/onepage/index.html",
-    "precache-manifest.c85d7077e6d7df0f9bff011c0082d809.js": "/onepage/precache-manifest.c85d7077e6d7df0f9bff011c0082d809.js",
-    "service-worker.js": "/onepage/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/onepage/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/onepage/static/media/logo.25bf045c.svg"
+    "main.css": "/oneplan/static/css/main.b100e6da.chunk.css",
+    "main.js": "/oneplan/static/js/main.af7fe1ed.chunk.js",
+    "main.js.map": "/oneplan/static/js/main.af7fe1ed.chunk.js.map",
+    "runtime-main.js": "/oneplan/static/js/runtime-main.17852a9f.js",
+    "runtime-main.js.map": "/oneplan/static/js/runtime-main.17852a9f.js.map",
+    "static/js/2.5e356dc6.chunk.js": "/oneplan/static/js/2.5e356dc6.chunk.js",
+    "static/js/2.5e356dc6.chunk.js.map": "/oneplan/static/js/2.5e356dc6.chunk.js.map",
+    "index.html": "/oneplan/index.html",
+    "precache-manifest.164fc94302c8578b0b70125d72aee2ee.js": "/oneplan/precache-manifest.164fc94302c8578b0b70125d72aee2ee.js",
+    "service-worker.js": "/oneplan/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/oneplan/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/oneplan/static/media/logo.25bf045c.svg"
   }
 }
